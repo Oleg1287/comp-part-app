@@ -1,0 +1,26 @@
+table, td, th{
+    border: 1px solid black;
+}
+
+table.partList{
+    margin-bottom: 10px;
+    width:50%;
+}
+
+div.addPart{
+    margin-top: 10px;
+}
+
+table.partEdit textarea, table.partEdit select{
+    width: 95%;
+}
+table.partEdit textarea{
+    resize:none;
+}
+
+div.error{
+    color: brown;
+    font-size: xx-large;
+    font-style: italic;
+
+}
